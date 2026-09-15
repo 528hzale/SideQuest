@@ -1,4 +1,4 @@
-# Sidequest — General Description (Revised Masterfile)
+# Sidequest: General Description (Revised Masterfile)
 
 Sidequest is a location discovery app that helps users find interesting places to visit, such as cafes, food stalls, scenic spots, tourist attractions, and activities. It provides personalized recommendations based on the user's preferences, location, budget, and interests, while helping local businesses attract more customers through promotions and exclusive deals.
 
@@ -149,10 +149,4 @@ Sidequest earns a small fee whenever a user visits a business through the app, v
 ### 3. Deals and Discounts
 Businesses offer exclusive discounts or promotions through Sidequest. Sidequest earns by charging businesses for promoting these deals, while users get cheaper offers.
 
----
 
-## Tips
-- Gamify the app (pointing system) — kept intentionally light per the above
-- Be specific on the revenues (pricing)
-- Free listing
-- Check on failed similar platforms (history, reasons, features)
